@@ -1,0 +1,5 @@
+[resource]
+load_file = botoy/plugins/bot_HumManBot/core/resources/load.aiml
+sensitive_file = botoy/plugins/bot_HumManBot/core/resources/sensitive.txt
+vocab_file = botoy/plugins/bot_HumManBot/core/deeplearning/vocab/vocab.txt
+gpt2_model_path = botoy/plugins/bot_HumManBot/core/deeplearning/model/model_epoch3_8kw
