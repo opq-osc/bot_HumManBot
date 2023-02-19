@@ -1,0 +1,4 @@
+httpx
+jieba
+torch
+transformers
