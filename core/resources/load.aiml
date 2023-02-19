@@ -1,0 +1,44 @@
+<aiml version="1.0" encoding="UTF-8">
+	<category>
+		<pattern>LOAD AIML B</pattern>
+		<template>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Book.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Complain.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Computer.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Constellation.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Discuss.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Encourage.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/External.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Film.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Food.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Game.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Greeting.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Healthy.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Inherence.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Internet.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Job.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Joke.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Life.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/MarkResponse.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Master.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Music.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/MyInfo.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Photography.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Plan.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Praise.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Rude.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Sentiment .aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Sex.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/SmallWord.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Study.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/Travel.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/basic.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/common.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/gossip.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/learn.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/load.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/main.aiml</learn>
+			<learn>botoy/plugins/bot_HumManBot/core/resources/save.aiml</learn>
+		</template>
+	</category>
+</aiml>
